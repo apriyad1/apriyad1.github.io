@@ -60,7 +60,7 @@ My work is focused on advancing Fairness in Machine Learning (ML). As an advocat
 I am always eager to connect with fellow researchers, practitioners, and advocates who are passionate in the fields of Machine Learning. Whether you are interested in discussing collaborative opportunities, sharing insights, or exploring Responsible AI, please feel free to reach out on my email ID [here](mailto:apriyad1@uci.edu). 
 
 
-Aside from research endeavors, I possess a deep passions for a diverse range of interests, including devouring in mystery & fantasy genre novels, videography, gaming, and most of all blog online about few short slice of life pieces [**link**(https://shiningstaramisha.wordpress.com/) to my blog]!
+Aside from research endeavors, I possess a deep passions for a diverse range of interests, including devouring in mystery & fantasy genre novels, videography, gaming, and most of all blog online about few short slice of life pieces [[**link**](https://shiningstaramisha.wordpress.com/) to my blog]!
 
 
 
