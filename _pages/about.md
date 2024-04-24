@@ -53,7 +53,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 About Me
 ======
 Hello and welcome!
-I am Amisha, a PhD student in the Department of Computer Science at the University of California, Irvine (UCI). I am affiliated with the [ETAD](https://etad.calit2.uci.edu/) (Engaging Technology and Application Design) lab at UCI, currently being advised by [Prof. Sergio Gago-Masague](https://www.faculty.uci.edu/profile/?facultyId=6971).
+I am Amisha, a PhD student in the **Department of Computer Science** at the **University of California, Irvine (UCI)**. I am affiliated with the [ETAD](https://etad.calit2.uci.edu/) (Engaging Technology and Application Design) lab at UCI, currently being advised by [Prof. Sergio Gago-Masague](https://www.faculty.uci.edu/profile/?facultyId=6971).
 
 My work is focused on advancing Fairness in Machine Learning (ML). As an advocate of Resposnible AI, I am deeply committed to addressing the ethical considerations inherent in algorithmic decision-making processes. I have worked with various Deep Learning architectures, and focused on ML Interpretability modules using real-world UCI student-admissions dataset. My work in the domains of Fair Representation Learning is aimed to address disparities and biases inherent in data-driven decision-making processes.
 
