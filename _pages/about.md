@@ -57,7 +57,7 @@ I am Amisha, a PhD student in the **Department of Computer Science** at the **Un
 
 My work is focused on advancing Fairness in Machine Learning (ML). As an advocate of Resposnible AI, I am deeply committed to addressing the ethical considerations inherent in algorithmic decision-making processes. I have worked with various Deep Learning architectures, and focused on ML Interpretability modules using real-world UCI student-admissions dataset. My work in the domains of Fair Representation Learning is aimed to address disparities and biases inherent in data-driven decision-making processes.
 
-I am always eager to connect with fellow researchers, practitioners, and advocates who are passionate in the fields of Machine Learning. Whether you are interested in discussing collaborative opportunities, sharing insights, or exploring Responsible AI, please feel free to reach out on my email ID [here](apriyad1@uci.edu). 
+I am always eager to connect with fellow researchers, practitioners, and advocates who are passionate in the fields of Machine Learning. Whether you are interested in discussing collaborative opportunities, sharing insights, or exploring Responsible AI, please feel free to reach out on my email ID [here](mailto:apriyad1@uci.edu). 
 
 
 
