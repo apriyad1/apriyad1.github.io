@@ -6,23 +6,24 @@ collection: publications
 date: 2023-25-09
 venue: 'IEEE International Conference on Transdisciplinary AI'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10387593'
-citation: '@inproceedings{priyadarshini2023admission,
-  title={Admission Prediction in Undergraduate Applications: an Interpretable Deep Learning Approach},
-  author={Priyadarshini, Amisha and Martinez-Neda, Barbara and Gago-Masague, Sergio},
-  booktitle={2023 Fifth International Conference on Transdisciplinary AI (TransAI)},
-  pages={135--140},
-  year={2023},
-  organization={IEEE}
-}'
+authors: **Amisha Priyadarshini**, Barbara Martinez-Neda, Sergio Gago-Masague 
+#citation: '@inproceedings{priyadarshini2023admission,
+#  title={Admission Prediction in Undergraduate Applications: an Interpretable Deep Learning Approach},
+#  author={Priyadarshini, Amisha and Martinez-Neda, Barbara and Gago-Masague, Sergio},
+#  booktitle={2023 Fifth International Conference on Transdisciplinary AI (TransAI)},
+#  pages={135--140},
+#  year={2023},
+#  organization={IEEE}
+#}'
 ---
 
 [Download paper here](http://academicpages.github.io/files/Paper_1.pdf)
 
-Recommended citation: @inproceedings{priyadarshini2023admission,
-  title={Admission Prediction in Undergraduate Applications: an Interpretable Deep Learning Approach},
-  author={Priyadarshini, Amisha and Martinez-Neda, Barbara and Gago-Masague, Sergio},
-  booktitle={2023 Fifth International Conference on Transdisciplinary AI (TransAI)},
-  pages={135--140},
-  year={2023},
-  organization={IEEE}
-}
+# Recommended citation: @inproceedings{priyadarshini2023admission,
+#  title={Admission Prediction in Undergraduate Applications: an Interpretable Deep Learning Approach},
+#  author={Priyadarshini, Amisha and Martinez-Neda, Barbara and Gago-Masague, Sergio},
+#  booktitle={2023 Fifth International Conference on Transdisciplinary AI (TransAI)},
+#  pages={135--140},
+#  year={2023},
+#  organization={IEEE}
+#}
