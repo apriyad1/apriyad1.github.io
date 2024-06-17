@@ -18,12 +18,3 @@ authors: **Amisha Priyadarshini**, Barbara Martinez-Neda, Sergio Gago-Masague
 ---
 
 [Download paper here](http://academicpages.github.io/files/Paper_1.pdf)
-
-# Recommended citation: @inproceedings{priyadarshini2023admission,
-#  title={Admission Prediction in Undergraduate Applications: an Interpretable Deep Learning Approach},
-#  author={Priyadarshini, Amisha and Martinez-Neda, Barbara and Gago-Masague, Sergio},
-#  booktitle={2023 Fifth International Conference on Transdisciplinary AI (TransAI)},
-#  pages={135--140},
-#  year={2023},
-#  organization={IEEE}
-#}
