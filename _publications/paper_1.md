@@ -6,7 +6,7 @@ permalink: /publication/paper_1
 date: 2023-25-09
 venue: 'IEEE International Conference on Transdisciplinary AI'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10387593'
-authors: **Amisha Priyadarshini**, Barbara Martinez-Neda, Sergio Gago-Masague 
+authors: '**Amisha Priyadarshini**, Barbara Martinez-Neda, Sergio Gago-Masague'
 #citation: '@inproceedings{priyadarshini2023admission,
 #  title={Admission Prediction in Undergraduate Applications: an Interpretable Deep Learning Approach},
 #  author={Priyadarshini, Amisha and Martinez-Neda, Barbara and Gago-Masague, Sergio},
