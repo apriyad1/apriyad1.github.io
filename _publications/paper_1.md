@@ -3,7 +3,7 @@ title: "Admission Prediction in Undergraduate Applications: an Interpretable Dee
 collection: publications
 permalink: /publication/paper_1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-25-09
+date: 2023-09-25
 venue: 'IEEE International Conference on Transdisciplinary AI'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10387593'
 authors: '**Amisha Priyadarshini**, Barbara Martinez-Neda, Sergio Gago-Masague'
