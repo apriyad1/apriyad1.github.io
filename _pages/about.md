@@ -55,7 +55,7 @@ About Me
 Hello and welcome!
 I am Amisha, a PhD student in the **Department of Computer Science** at the **University of California, Irvine (UCI)**. I am affiliated with the [ETAD](https://etad.calit2.uci.edu/) (Engaging Technology and Application Design) and [TLC](https://tlc.ics.uci.edu/teams/current-team/) (Teaching and Learning in Computing) Lab at UCI, currently being advised by [Dr. Sergio Gago-Masague](https://www.faculty.uci.edu/profile/?facultyId=6971).
 
-Some of my Ongoing Work & Research Interests,
+Some of my Ongoing Work and Research Interests,
 - Fairness in Machine Learning.
 - Developing Representation learning techniques to mitigate Algorithmic bias in real-world applications.
 - Experience working in Neuro-symbolic networks and Deep learning frameworks for robust decision-making.
