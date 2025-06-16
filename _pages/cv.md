@@ -19,7 +19,7 @@ Work experience
 ======
 * Winter, 2023 - Present: Graduate Research Assistant
   * ETAD Lab, UCI
-  * Duties includes: My research focuses on advancing fairness and interpretability in Machine Learning, particularly through fair representation learning and neuro-symbolic AI frameworks such as the Kolmogorov-Arnold Network (KAN). Currently, I am exploring the fairness and interpretability aspects of these models to enhance transparency and trustworthiness in decision-making processes. Additionally, I leverage Generative Adversarial Networks (GANs) like FairGAN model as the state-of-the-art baseline models to evaluate and mitigate bias while ensuring equitable outcomes. My work includes developing fairness-aware deep learning methods within the domain of student admissions, utilizing real-world datasets obtained through NDAs with universities. I also integrate mathematical modeling to improve model performance, reliability, and efficiency. My technical expertise spans Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn), PyTorch, and CUDA for GPU-accelerated computations, enabling scalable and effective implementation of deep learning frameworks.
+  * Duties includes: My research focuses on advancing fairness and interpretability in Machine Learning, particularly through fair representation learning and explore neuro-symbolic AI frameworks such as the Kolmogorov-Arnold Network (KAN), and Large Language Models (LLM). Currently, I am exploring the fairness and interpretability aspects of these models to enhance transparency and trustworthiness in decision-making processes. Additionally, I leverage Generative Adversarial Networks (GANs) like FairGAN model as the state-of-the-art baseline models to evaluate and mitigate bias while ensuring equitable outcomes. My work includes developing fairness-aware deep learning methods within the domain of student admissions, utilizing real-world datasets obtained through NDAs with Universities. I also work on developing mathematical modeling and guarentees to improve model performance, reliability, and efficiency. My technical expertise spans Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn), PyTorch, and CUDA for GPU-accelerated computations, enabling scalable and effective implementation of deep learning frameworks.
 
   * Supervisor: Prof. Sergio Gago-Masague
 
@@ -30,11 +30,11 @@ Work experience
 
 * Fall 2019 - Present: Teaching Assistant
   * Dept. of Computer Science, UCI
-  * Courses: Capstone Project (CS 180, CS 297P), System Design (ICS 53), Boolean Algebra and Discrete Mathematics (ICS 6B)
+  * Courses: Capstone Project (CS 180, CS 297P), System Design (ICS 53), Boolean Algebra and Discrete Mathematics (ICS 6B).
   
   
 Skills
 ======
 * Programming Language: C, C++, Python (Pandas, Scikit-learn, Matplotlib, Seaborn), SQL
 * Deep Learning packages: PyTorch, TensorFlow
-* Software MATLAB, Anaconda, Jupyter Notebook, Mathematica, Visual Studio, PyCharm, GitHub
+* Software: MATLAB, Anaconda, Jupyter Notebook, Mathematica, Visual Studio, PyCharm, GitHub
