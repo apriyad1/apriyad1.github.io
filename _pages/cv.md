@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, University of California, Irvine, 2026 (expected)
-* Integrated M.SC. (B.S.+ M.S.) in Mathematics, National Institute of Technology, Rourkela, 2016
+* Integrated M.Sc. (B.S.+ M.S.) in Mathematics, National Institute of Technology, Rourkela, 2016
 
 
 Work experience
