@@ -38,24 +38,3 @@ Skills
 * Programming Language: C, C++, Python (Pandas, Scikit-learn, Matplotlib, Seaborn), SQL
 * Deep Learning packages: PyTorch, TensorFlow
 * Software MATLAB, Anaconda, Jupyter Notebook, Mathematica, Visual Studio, PyCharm, GitHub
-<!-- Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
-  
-<!-- Projects
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
