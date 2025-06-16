@@ -55,7 +55,7 @@ About Me
 Hello and welcome!
 I am Amisha, a PhD student in the **Department of Computer Science** at the **University of California, Irvine (UCI)**. I am affiliated with the [ETAD](https://etad.calit2.uci.edu/) (Engaging Technology and Application Design) and [TLC](https://tlc.ics.uci.edu/teams/current-team/) (Teaching and Learning in Computing) Lab at UCI, currently being advised by [Dr. Sergio Gago-Masague](https://www.faculty.uci.edu/profile/?facultyId=6971).
 
-Some of my Ongoing Work and Research Interests,
+Ongoing Work and Research Interests,
 
 - Fairness in Machine Learning.
 - Developing Representation learning techniques to mitigate Algorithmic bias in real-world applications.
@@ -64,10 +64,9 @@ Some of my Ongoing Work and Research Interests,
 - Machine Learning Interpretability and Explainaibility.
 
 
+
+Aside from research endeavors, I love reading books and maintain a book club, playing video games, watching animes, and most of all Blog online [[link](https://shiningstaramisha.wordpress.com/) to my blog]! 
 Please feel free to reach out on my email ID [here](mailto:apriyad1@uci.edu).
-
-
-Aside from research endeavors, I love reading books and maintain a book club, playing video games, watching animes, and most of all Blog online [[link](https://shiningstaramisha.wordpress.com/) to my blog]!
 
 
 
