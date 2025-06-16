@@ -55,16 +55,27 @@ About Me
 Hello and welcome!
 I am Amisha, a PhD student in the **Department of Computer Science** at the **University of California, Irvine (UCI)**. I am affiliated with the [ETAD](https://etad.calit2.uci.edu/) (Engaging Technology and Application Design) and [TLC](https://tlc.ics.uci.edu/teams/current-team/) (Teaching and Learning in Computing) Lab at UCI, currently being advised by [Dr. Sergio Gago-Masague](https://www.faculty.uci.edu/profile/?facultyId=6971).
 
-My work is focused on advancing Fairness in Machine Learning (ML). As an advocate of Resposnible AI, I am deeply committed to addressing the ethical considerations inherent in algorithmic decision-making processes. I have worked with various Deep Learning architectures, and focused on ML Interpretability modules on real-world UCI student-admissions dataset. My work in the domains of Fair Representation Learning is aimed to address disparities and biases inherent in data-driven decision-making processes.
+Some of my Research Interest include,
+- Fairness in Machine Learning.
+- Developing Representation learning techniques to mitigate Algorithmic bias in real-world applications.
+- Experience working in Neuro-symbolic networks and Deep learning frameworks for robust decision-making.
+- Integrating Fairness-aware frameworks in Large Language Models (LLMs).
+- Machine Learning Interpretability and Explainaibility.
 
-I am always eager to connect with fellow researchers, practitioners, and advocates who are passionate in the fields of Machine Learning. Whether you are interested in discussing collaborative opportunities, sharing insights, or exploring future possibilities, please feel free to reach out on my email ID [here](mailto:apriyad1@uci.edu). 
+
+Please feel free to reach out on my email ID [here](mailto:apriyad1@uci.edu).
 
 
-Aside from research endeavors, I possess a deep passion for a diverse range of interests, including devouring in mystery & fantasy genre novels, gaming, and most of all Blog online on short slice of life pieces [[link](https://shiningstaramisha.wordpress.com/) to my blog]!
+Aside from research endeavors, I love reading books and maintain a book club, playing video games, watching animes, and most of all Blog online [[link](https://shiningstaramisha.wordpress.com/) to my blog]!
 
 
 
 
 News
 ------
+
+- Apr 22, 2024 - Attended Google Alumni Reception @ Bren Hall, UCI.
+- Sept 10, 2024 - Our Paper got accepted at IEEE International Conference on Cognitive Machine Intelligence.
+- June 12, 2024 - Yay, I am officially a PhD Candidate now!!!
+- Aug 15, 2023 - Our Paper got accepted at IEEE International Conference on Transdisciplinary AI.
 
