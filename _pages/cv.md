@@ -55,11 +55,7 @@ Talks
   
 Projects
 ======
-<<<<<<< HEAD
   <ul>{% for post in site.projects %}
-=======
-  <ul>{% for post in site.teaching reversed %}
->>>>>>> 255284ccf0deb022e0b699ea27c9417df07b50eb
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
