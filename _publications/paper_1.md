@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Admission Prediction in Undergraduate Applications: an Interpretable Deep Learning Approach"
 collection: publications
 permalink: /publication/paper_1
@@ -17,4 +17,4 @@ authors: '**Amisha Priyadarshini**, Barbara Martinez-Neda, Sergio Gago-Masague'
 #}'
 ---
 
-[Download paper here](http://academicpages.github.io/files/Paper_1.pdf)
+[Download paper here](http://academicpages.github.io/files/Paper_1.pdf) -->
