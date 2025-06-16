@@ -11,49 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of California, Irvine, 2026 (expected)
+* Integrated M.SC. (B.S.+ M.S.) in Mathematics, National Institute of Technology, Rourkela, 2016
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter, 2023 - Present: Graduate Research Assistant
+  * ETAD Lab, UCI
+  * Duties includes: My research focuses on advancing fairness and interpretability in Machine Learning, particularly through fair representation learning and neuro-symbolic AI frameworks such as the Kolmogorov-Arnold Network (KAN). Currently, I am exploring the fairness and interpretability aspects of these models to enhance transparency and trustworthiness in decision-making processes. Additionally, I leverage Generative Adversarial Networks (GANs) like FairGAN model as the state-of-the-art baseline models to evaluate and mitigate bias while ensuring equitable outcomes. My work includes developing fairness-aware deep learning methods within the domain of student admissions, utilizing real-world datasets obtained through NDAs with universities. I also integrate mathematical modeling to improve model performance, reliability, and efficiency. My technical expertise spans Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn), PyTorch, and CUDA for GPU-accelerated computations, enabling scalable and effective implementation of deep learning frameworks.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Prof. Sergio Gago-Masague
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022 - Fall, 2023: Graduate Research Assistant
+  * Dept. of Computer Science, UCI
+  * Duties included: We worked on deep symbolic regression techniques using reinforcement learning algorithm which uses the policy gradient concept to produce mathematical expression(s) in the form of a syntax tree which is generated stochastically. The work focuses on improving the reward function through optimization technique by simultaneously improving the learning algorithm through noisy data inputs.
+  * Supervisor: Prof. Eric Mjolness
+
+* Fall 2019 - Present: Teaching Assistant
+  * Dept. of Computer Science, UCI
+  * Courses: Capstone Project (CS 180, CS 297P), System Design (ICS 53), Boolean Algebra and Discrete Mathematics (ICS 6B)
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+* Programming Language: C, C++, Python (Pandas, Scikit-learn, Matplotlib, Seaborn), SQL
+* Deep Learning packages: PyTorch, TensorFlow
+* Software MATLAB, Anaconda, Jupyter Notebook, Mathematica, Visual Studio, PyCharm, GitHub
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+   -->
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Projects
+<!-- Projects
 ======
   <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
@@ -61,4 +58,4 @@ Projects
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
