@@ -75,7 +75,9 @@ News
 ------
 
 - Apr 22, 2024 - Attended Google Alumni Reception @ Bren Hall, UCI.
-- Sept 10, 2024 - Our Paper got accepted at IEEE International Conference on Cognitive Machine Intelligence.
+- Sept 10, 2024 - Paper got accepted at IEEE International Conference on Cognitive Machine Intelligence.
 - June 12, 2024 - Yay, I am officially a PhD Candidate now!!!
-- Aug 15, 2023 - Our Paper got accepted at IEEE International Conference on Transdisciplinary AI.
+- Aug 15, 2023 - Paper got accepted at IEEE International Conference on Transdisciplinary AI.
+- Apr 21, 2021 - (Second time in a row) Received the prestigious DTEI Summer Fellowship, UCI.
+- June 20, 2020 - Received the prestigious DTEI Summer Fellowship, UCI.
 
