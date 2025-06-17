@@ -80,4 +80,5 @@ News
 - Aug 15, 2023 - Paper got accepted at IEEE International Conference on Transdisciplinary AI.
 - Apr 21, 2021 - (Second time in a row) Received the prestigious DTEI Summer Fellowship, UCI.
 - June 20, 2020 - Received the prestigious DTEI Summer Fellowship, UCI.
+- Jan 17, 2017 - Awarded Department Topper, Integrated MSc Mathematics, National Institute of Technology Rourkela (NITR), on Graduation Day.
 
