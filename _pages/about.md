@@ -53,7 +53,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 About Me
 ======
 Hello and welcome!
-I am Amisha, a PhD student in the **Department of Computer Science** at the **University of California, Irvine (UCI)**. I am affiliated with the [ETAD](https://etad.calit2.uci.edu/) (Engaging Technology and Application Design) and [TLC](https://tlc.ics.uci.edu/teams/current-team/) (Teaching and Learning in Computing) Lab at UCI, currently being advised by [Dr. Sergio Gago-Masague](https://www.faculty.uci.edu/profile/?facultyId=6971).
+I am Amisha, a PhD student in the **Department of Computer Science** at the **University of California, Irvine (UCI)**. I am affiliated with the [ETAD](https://etad.calit2.uci.edu/) (Engaging Technology and Application Design) and [TLC](https://tlc.ics.uci.edu/teams/current-team/) (Teaching and Learning in Computing) Lab at UCI, currently being advised by [Dr. Sergio Gago-Masague](https://sgagomas.ics.uci.edu/).
 
 Ongoing Work and Research Interests,
 
@@ -80,5 +80,5 @@ News
 - Aug 15, 2023 - Paper got accepted at IEEE International Conference on Transdisciplinary AI.
 - Apr 21, 2021 - (Second time in a row) Received the prestigious DTEI Summer Fellowship @ UCI.
 - June 20, 2020 - Received the prestigious DTEI Summer Fellowship @ UCI.
-- Jan 17, 2017 - Awarded Department Topper, Integrated MSc Mathematics, National Institute of Technology(NIT) Rourkela, on Graduation Day.
+- Jan 17, 2017 - Awarded Department Topper, Integrated MSc., Mathematics, National Institute of Technology (NIT) Rourkela, on Graduation Day.
 
