@@ -1,7 +1,7 @@
 
 
 ---
-# title: "Admission Prediction in Undergraduate Applications: an Interpretable Deep Learning Approach"
+title: "Admission Prediction in Undergraduate Applications: an Interpretable Deep Learning Approach"
 collection: publications
 permalink: /publication/paper_1
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->

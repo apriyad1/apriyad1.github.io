@@ -14,7 +14,7 @@ Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=
 
 
 ---
-# title: "Fair Evaluator: An Adversarial Debiasing-based Deep Learning Framework in Student Admissions"
+title: "Fair Evaluator: An Adversarial Debiasing-based Deep Learning Framework in Student Admissions"
 collection: publications
 permalink: /publication/paper_2
 date: 2024-10-09
