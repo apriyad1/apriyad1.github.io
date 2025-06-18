@@ -16,19 +16,19 @@ Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=
 ---
 title: "Fair Evaluator: An Adversarial Debiasing-based Deep Learning Framework in Student Admissions"
 collection: publications
-permalink: /publication/paper_2
+permalink: /publication/2024-10-09-paper-title-number-2
 date: 2024-10-09
 venue: 'IEEE International Conference on Cognitve Machine Intelligence'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10835546'
-authors: '**Amisha Priyadarshini**, Sergio Gago-Masague'
+<!-- authors: '**Amisha Priyadarshini**, Sergio Gago-Masague' -->
 category: conferences
-<!-- citation: '@inproceedings{priyadarshini2024fair,
+citation: '@inproceedings{priyadarshini2024fair,
   title={Fair Evaluator: An Adversarial Debiasing-based Deep Learning Framework in Student Admissions},
   author={Priyadarshini, Amisha and Gago-Masague, Sergio},
   booktitle={2024 IEEE 6th International Conference on Cognitive Machine Intelligence (CogMI)},
   pages={152--161},
   year={2024},
-  organization={IEEE}}' -->
+  organization={IEEE}}'
 ---
 
  <!-- [Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10835546) -->
