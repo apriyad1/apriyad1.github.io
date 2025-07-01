@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image123.png"
+  avatar           : "image22.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -156,7 +156,7 @@ analytics:
 # Site Author
 author:
   name             : "Amisha Priyadarshini"
-  avatar           : "image123.png"
+  avatar           : "image22.png"
   bio              : "PhD student @ University of California, Irvine"
   location         : "Irvine, CA"
   employer         :
