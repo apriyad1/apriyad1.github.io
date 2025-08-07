@@ -65,7 +65,7 @@ Ongoing Work and Research Interests,
 
 
 
-Aside from research endeavors, I love reading books and maintain a book club [link to my thoughts [here](https://www.notion.so/moon-hollow/My-Cozy-Reading-Den-434a7bacccb0424ba215d21da84ccfdb)], playing video games, watching animes, and most of all Blog online! 
+Aside from research endeavors, I love reading books and maintain a [book club](https://www.notion.so/moon-hollow/My-Cozy-Reading-Den-434a7bacccb0424ba215d21da84ccfdb), playing video games, watching animes, and most of all Blog online! 
 Please feel free to reach out on my email ID [here](mailto:apriyad1@uci.edu).
 
 
