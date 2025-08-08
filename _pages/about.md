@@ -57,15 +57,15 @@ I am Amisha, a PhD student in the **Department of Computer Science** at the **Un
 
 Ongoing Work and Research Interests,
 
-- Fairness in Machine Learning.
-- Developing Representation learning techniques to mitigate Algorithmic bias in real-world applications.
-- Experience working in Neuro-symbolic networks and Deep learning frameworks for robust decision-making.
+- Multimodal Machine Learning models.
 - Integrating Fairness-aware frameworks in Large Language Models (LLMs).
-- Machine Learning Interpretability and Explainaibility.
+- Experience working in Neuro-symbolic networks (KANs) and Deep learning frameworks for robust fair learning techniques.
+- Developing Representation learning techniques to mitigate algorithmic bias.
 
 
 
-Aside from research endeavors, I love reading books and maintain a [Book Club](https://www.notion.so/moon-hollow/My-Cozy-Reading-Den-434a7bacccb0424ba215d21da84ccfdb), playing video games, watching animes, and most of all Blog online! 
+
+Aside from research, I love reading books and maintain a [Book Club](https://www.notion.so/moon-hollow/My-Cozy-Reading-Den-434a7bacccb0424ba215d21da84ccfdb), playing video games, watching animes, and most of all Blog online! 
 Please feel free to reach out on my email ID [here](mailto:apriyad1@uci.edu).
 
 
@@ -74,11 +74,12 @@ Please feel free to reach out on my email ID [here](mailto:apriyad1@uci.edu).
 News
 ------
 
-- Apr 22, 2024 - Attended Google Alumni Reception @ Bren Hall, UCI.
-- Sept 10, 2024 - Paper got accepted at IEEE International Conference on Cognitive Machine Intelligence.
-- June 12, 2024 - Yay, I am officially a PhD Candidate now!!!
-- Aug 15, 2023 - Paper got accepted at IEEE International Conference on Transdisciplinary AI.
-- Apr 21, 2021 - (Second time in a row) Received the prestigious DTEI Summer Fellowship @ UCI.
-- June 20, 2020 - Received the prestigious DTEI Summer Fellowship @ UCI.
-- Jan 17, 2017 - Awarded Department Topper, Integrated MSc., Mathematics, National Institute of Technology (NIT) Rourkela, on Graduation Day.
+- [July, 2025] - Awarded Google Cloud Research Credits in recognition of research contributions in fairness-aware machine learning.
+- [Apr 22, 2024] - Attended Google Alumni Reception @ Bren Hall, UCI.
+- [Sept 10, 2024] - Paper got accepted at IEEE International Conference on Cognitive Machine Intelligence.
+- [June 12, 2024] - Yay, I am officially a PhD Candidate now!!!
+- [Aug 15, 2023] - Paper got accepted at IEEE International Conference on Transdisciplinary AI.
+- [Apr 21, 2021] - (Second time in a row) Received the prestigious DTEI Summer Fellowship @ UCI.
+- [June 20, 2020] - Received the prestigious DTEI Summer Fellowship @ UCI.
+- [Jan 17, 2017] - Awarded Department Topper, Integrated MSc., Mathematics, National Institute of Technology (NIT) Rourkela, on Graduation Day.
 
