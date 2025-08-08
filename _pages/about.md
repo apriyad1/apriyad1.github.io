@@ -74,7 +74,7 @@ Please feel free to reach out on my email ID [here](mailto:apriyad1@uci.edu).
 News
 ------
 
-- [July, 2025] - Awarded Google Cloud Research Credits in recognition of research contributions in fairness-aware machine learning.
+- [July, 2025] - Awarded Google Cloud Research Credits to advance large-scale experiments in fairness-aware machine learning.
 - [Apr 22, 2025] - Attended Google Alumni Reception @ Bren Hall, UCI.
 - [Sept 10, 2024] - Paper got accepted at IEEE International Conference on Cognitive Machine Intelligence.
 - [June 12, 2024] - Yay, I am officially a PhD Candidate now!!!
