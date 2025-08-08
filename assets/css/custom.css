@@ -1,0 +1,12 @@
+/* Reduce font size site-wide */
+body {
+    font-size: 14px; /* default ~16px */
+}
+
+/* Optional: headings */
+h1 {
+    font-size: 1.8rem; /* default ~2.25rem */
+}
+h2 {
+    font-size: 1.4rem;
+}
