@@ -69,7 +69,10 @@ Aside from research, I love reading books and maintain a [Book Club](https://www
 Please feel free to reach out on my email ID [here](mailto:apriyad1@uci.edu).
 
 
-
+Professional Service
+------
+- Program Committee Member – AAAI Conference on Artificial Intelligence (AAAI)
+- Program Committee Member – ACM Special Interest Group on Computer Science Education (SIGCSE)
 
 News
 ------
