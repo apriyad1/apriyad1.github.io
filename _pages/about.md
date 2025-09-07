@@ -57,7 +57,7 @@ I am Amisha, a PhD candidate in the **Department of Computer Science** at the **
 
 Ongoing Work and Research Interests,
 
-- Fair Multimodal Learning using text and tabular datasets. 
+- Fair, Distributionally Robust Multimodal Learning for Text–Tabular Fusion.
 - Integrating Fairness-aware frameworks in Large Language Models (LLMs).
 - Experience working in Neuro-symbolic networks (KANs) and Deep learning frameworks for robust fair learning techniques.
 - Developing Representation learning techniques to mitigate algorithmic bias.
