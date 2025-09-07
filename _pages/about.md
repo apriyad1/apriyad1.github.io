@@ -53,7 +53,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 About Me
 ======
 Hello!
-I am Amisha, a PhD candidate in the **Department of Computer Science** at the **University of California, Irvine (UCI)**. I am affiliated with the [ETAD](https://etad.calit2.uci.edu/) (Engaging Technology and Application Design) and [TLC](https://tlc.ics.uci.edu/teams/current-team/) (Teaching and Learning in Computing) Lab at UCI, currently being advised by [Dr. Sergio Gago-Masague](https://sgagomas.ics.uci.edu/).
+I am Amisha, a PhD candidate in the **Department of Computer Science** at the **University of California, Irvine (UCI)**. I am affiliated with [ETAD](https://etad.calit2.uci.edu/) (Engaging Technology and Application Design) and [TLC](https://tlc.ics.uci.edu/teams/current-team/) (Teaching and Learning in Computing) Lab at UCI, currently being advised by [Dr. Sergio Gago-Masague](https://sgagomas.ics.uci.edu/).
 
 Ongoing Work and Research Interests,
 
