@@ -57,7 +57,7 @@ I am Amisha, a PhD candidate in the **Department of Computer Science** at the **
 
 Ongoing Work and Research Interests,
 
-- Fair, Distributionally Robust Multimodal Learning for Text–Tabular Fusion.
+- Fair, Distributionally Robust Multimodal Learning.
 - Integrating Fairness-aware frameworks in Large Language Models (LLMs).
 - Experience working in Neuro-symbolic networks (KANs) and Deep learning frameworks for robust fair learning techniques.
 - Developing Representation learning techniques to mitigate algorithmic bias.
@@ -77,6 +77,7 @@ Professional Service
 News
 ------
 
+- [Sept 22, 2025] - Ongoing work on Multimodal learning got accepted at WiML Workshop @ NeurIPS 2025!
 - [July, 2025] - Awarded Google Cloud Research Credits as an early recognition, & to advance large-scale experiments in fairness-aware ML.
 - [Apr 22, 2025] - Attended Google Alumni Reception @ Bren Hall, UCI.
 - [Sept 10, 2024] - Paper got accepted at IEEE International Conference on Cognitive Machine Intelligence.
