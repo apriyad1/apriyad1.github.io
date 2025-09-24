@@ -1,9 +1,10 @@
 <li class="archive__item">
-  <span class="archive__item-title">
-    {% if post.link %}<a href="{{ post.link }}">{% endif %}
-    {{ post.title }}
-    {% if post.link %}</a>{% endif %}
-  </span>
+<h2 class="archive__item-title">
+  {% if post.link %}<a href="{{ post.link }}">{% endif %}
+  {{ post.title }}
+  {% if post.link %}</a>{% endif %}
+</h2>
+
 
   <div class="archive__item-meta">
     {% if post.authors %}
