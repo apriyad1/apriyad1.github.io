@@ -13,7 +13,14 @@ author_profile: true
 
 {% include base_path %}
 
+<ul class="archive">
+  {% assign pubs = site.publications | sort: "date" | reverse %}
+  {% for post in pubs %}
+    {% include publication-item.html post=post %}
+  {% endfor %}
+</ul>
+<!-- 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 

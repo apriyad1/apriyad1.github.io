@@ -1,0 +1,21 @@
+<li class="archive__item">
+  <span class="archive__item-title">
+    {% if post.link %}<a href="{{ post.link }}">{% endif %}
+    {{ post.title }}
+    {% if post.link %}</a>{% endif %}
+  </span>
+
+  <div class="archive__item-meta">
+    {% if post.authors %}
+      <span class="pub-authors">
+        {{ post.authors | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
+      </span>
+    {% endif %}
+    {% if post.venue %}<span class="pub-venue"> — {{ post.venue }}</span>{% endif %}
+    {% if post.date %}<span class="pub-year"> ({{ post.date | date: "%Y" }})</span>{% endif %}
+  </div>
+
+  {% if post.paperurl %}
+    <a class="btn btn--primary btn--small" href="{{ post.paperurl }}">Publisher</a>
+  {% endif %}
+</li>
