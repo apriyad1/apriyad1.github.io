@@ -3,7 +3,7 @@ title: "FairFusion: Distributionally Robust Fair-Multimodal Learning for College
 collection: publications
 date: 2025-09-22
 venue: 'WiML Workshop Paper, NeurIPS'
-paperurl: 'https://github.com/apriyad1/FairFusion-Distributionally-Robust-Fair-Multimodal-Learning-for-College-Admissions.git'
+paperurl: 'https://openreview.net/forum?id=BZxMtdCT2Q'
 authors: '**Amisha Priyadarshini**, Sergio Gago-Masague'
 category: conferences
 
