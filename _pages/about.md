@@ -77,8 +77,8 @@ Professional Service
 News
 ------
 
-- [Nov 7, 2025] - Paper got accepted at Fortieth AAAI Conference as a Main-track Paper.
-- [Sept 22, 2025] - Ongoing work on Multimodal learning got accepted at WiML Workshop @ NeurIPS 2025!
+- [Nov 7, 2025] - Paper got accepted at 40th **AAAI Conference, 2026** as a Main-track Paper.
+- [Sept 22, 2025] - Ongoing work on Multimodal learning got accepted at **WiML Workshop @ NeurIPS 2025**!
 - [July, 2025] - Awarded Google Cloud Research Credits as an early recognition, & to advance large-scale experiments in fairness-aware ML.
 - [Apr 22, 2025] - Attended Google Alumni Reception @ Bren Hall, UCI.
 - [Sept 10, 2024] - Paper got accepted at IEEE International Conference on Cognitive Machine Intelligence.
