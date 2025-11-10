@@ -21,7 +21,7 @@ Work experience
 ======
 * Winter, 2023 - Present: Graduate Research Assistant
   * ETAD Lab, UCI
-  * Duties includes: My research focuses on advancing fairness and interpretability in Machine Learning, particu-
+  * Duties : My research focuses on advancing fairness and interpretability in Machine Learning, particu-
   larly through **fair representation learning** and **fair multimodal learning** frameworks that are robust
   to input perturbations and come with theoretical performance guarantees. I have expertise with
   training deep neural networks, neuro-symbolic AI (e.g., Kolmogorov–Arnold Networks), and Large
