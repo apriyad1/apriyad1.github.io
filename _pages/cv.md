@@ -21,8 +21,20 @@ Work experience
 ======
 * Winter, 2023 - Present: Graduate Research Assistant
   * ETAD Lab, UCI
-  * Duties includes: My research focuses on advancing fairness and interpretability in Machine Learning, particularly through fair representation learning. I have expertise in working with deep neural networks, neuro-symbolic AI frameworks such as the Kolmogorov-Arnold Network (KAN) and **Large Language Models (LLMs)**. In my recent works, I have developed algorithms to mitigate algorithmic bias through fair learning techniques and provided convergence guarantees. Additionally, I leverage generative models (such as WGANs), and adversarial models (such as ROAD) as the state-of-the-art baseline models to further back our proposed models. My work includes developing fairness-aware learning frameworks that are distributionally robust, and capable of addressing the fairness–accuracy trade-off to achieve equitable outcomes without compromising predictive reliability. Currently, my research focuses on developing **Fair Multimodal learning** framework robust to input perturbations, with performance guarantees to substantiate our claims. 
-  I have worked with real-world college admissions datasets obtained through NDAs with universities as a part of my experimental work. Simultaneously, I am also involved with a project, dealing with Capstone project, where we are working on integrating multimodal data, text and tabular (academic records, behavioral indicators, demographics), to predict and prevent dropout risk. My technical expertise spans Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn), PyTorch, and CUDA (/MPS) for GPU-accelerated computations, enabling scalable and effective implementation of deep learning frameworks.
+  * Duties includes: My research focuses on advancing fairness and interpretability in Machine Learning, particu-
+  larly through **fair representation learning** and **fair multimodal learning** frameworks that are robust
+  to input perturbations and come with theoretical performance guarantees. I have expertise with
+  training deep neural networks, neuro-symbolic AI (e.g., Kolmogorov–Arnold Networks), and Large
+  Language Models (LLMs), under fairness constraints.
+  - Developed adaptive algorithm to mitigate algorithmic bias with convergence guarantees with
+  adversarial robustness in KAN-based adversarial framework, achieving results that surpass SOTA
+  adversarial models (e.g., ROAD) and address the fairness–accuracy trade-off without compromising predictive reliability.
+  - Current work focus on developing fair Multimodal learning technique, with performance guaran-
+  tees to handle distributional shifts under adversarial conditions, whilst also maintaining modality
+  alignment. We propose Wasserstein DRO technique in an adversarial multimodal setup to tackle
+  problems like bias amplification, modality misalignment and test-time distribution shifts
+  - Second project focus - Designing an LLM-based Agentic AI framework for personalized student–project matching in capstone courses. Alongwith that the framework also aims to provide
+  an explanation of the decision taken by the agent to enhance model prediction interpretability.
 
   * Supervisor: Prof. Sergio Gago-Masague
 
@@ -40,4 +52,4 @@ Skills
 ======
 * Programming Language: C, C++, Python (Pandas, Scikit-learn, Matplotlib, Seaborn), SQL
 * Deep Learning packages: PyTorch, TensorFlow
-* Software: MATLAB, Anaconda, Jupyter Notebook, Mathematica, Visual Studio, PyCharm, GitHub
+* Software: MATLAB, Anaconda, Jupyter Notebook, Mathematica, Visual Studio, PyCharm, GitHub, CUDA/MPS
