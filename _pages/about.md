@@ -77,6 +77,7 @@ Professional Service
 News
 ------
 
+- [Nov, 2025] - Awarded a Special Fellowship by the Dept. of Computer Science @ UCI for Winter,'26 quarter.
 - [Nov, 2025] - Awarded NeurIPS 2025 Travel Grant, fully covering conference registration and travel expenses.
 - [Nov 7, 2025] - Paper got accepted at 40th **AAAI Conference, 2026** as a Main-track Paper.
 - [Sept 22, 2025] - Ongoing work on Multimodal learning got accepted at **WiML Workshop @ NeurIPS 2025**!
